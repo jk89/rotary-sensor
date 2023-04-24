@@ -1,0 +1,3 @@
+[submodule "external/kaepek-kalman"]
+	path = external/kaepek-kalman
+	url = git@github.com:jk89/kalman.git
